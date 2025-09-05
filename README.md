@@ -1,30 +1,30 @@
-# Personal Financial Dashboard  
+# Sales Insights Dashboard  
 
 ## 📌 Overview  
-The **Personal Financial Dashboard** is a data-driven solution designed to help individuals track and manage their personal finances efficiently. It combines **Excel dashboards, SQL queries, and Power BI reports** to provide clear insights into income, expenses, savings, and budgeting patterns.  
-
-This project demonstrates skills in **data analysis, visualization, and financial management** by integrating multiple tools for comprehensive financial tracking.  
+The **Sales Insights Dashboard** project focuses on analyzing and visualizing sales data to support better business decision-making. Using **Power BI, SQL, and Excel**, this project provides dynamic dashboards that deliver real-time insights into sales performance, KPIs, and regional trends.  
 
 ---
 
 ## 🚀 Features  
-- 📊 **Excel Dashboards**:  
-  - Track monthly income, expenses, and savings.  
-  - Trend analysis for better financial planning.  
+- 🧹 **Data Cleaning & Structuring**:  
+  - Processed raw sales data using **Excel formulas** and **SQL queries**.  
+  - Ensured accuracy and consistency for reporting and analysis.  
 
-- 📈 **Power BI Reports**:  
-  - Interactive visualization of spending categories.  
-  - Cash flow and savings goal monitoring.  
-  - Dynamic filtering for in-depth analysis.  
+- 📊 **Power BI Dashboards**:  
+  - Interactive dashboards for **KPIs, regional sales, and product performance**.  
+  - Drill-down filters for deeper business insights.  
 
-- 🛢 **SQL Queries**:  
-  - Analyze expense patterns by category and timeframe.  
-  - Generate insights for budgeting and decision-making.  
-  - Support for structured financial data storage.  
+- ⚡ **Automation**:  
+  - Automated **data refresh** for real-time reporting.  
+  - Dynamic visualization updates for ongoing decision support.  
 
 ---
 
 ## 🛠 Technologies Used  
-- **SQL** – For querying and analyzing financial data.  
-- **Excel** – For creating dashboards and trend reports.  
-- **Power BI** – For building interactive and dynamic visualizations.  
+- **SQL** – For data extraction, transformation, and querying.  
+- **Excel** – For preprocessing and structuring datasets.  
+- **Power BI** – For building dynamic, interactive dashboards.  
+
+---
+
+## 📂 Project Structure  
